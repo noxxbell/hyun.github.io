@@ -241,64 +241,6 @@ teaching:
           and report production focussed on antimicrobial resistance gene 
           dynamics in the environment.
 
-  speaking:
-    title: "Speaking"
-    introduction: ""
-    items:
-      - title: "ABPHM"
-        date: 2019
-        description: "Oral talk at the Applied Bioinformatics & Public Health Microbiology conference, Hinxton"
-      - title: "Doherty Institute"
-        date: 2018
-        description: "Invited seminar at the Doherty Institute, University of Melbourne"
-      - title: "SMBE"
-        date: 2018
-        description: "Lightning talk for the Genome Evolution in Pathogen Transmission and Disease conference, Kyoto"
-      - title: "Genome Science"
-        date: 2018
-        description: "Invited oral talk for the Genome Science conference, Nottingham"
-      - title: "COMMET"
-        date: 2017
-        description: "Invited oral talk for Community Network in Metagenomics conference, Warwick"
-      - title: "BSAC"
-        date: 2016
-        description: "Oral talk for British Society of Antimicrobial Chemotherapy confernce. London"
+ 
 
-other:
-  title: "Industrial Collaboration, Other Training &amp Activities"
-  slug: "other"
-  collaboration:
-    - name: "Industrial Collaboration"
-      date: ""
-      description: ""
-    - name: "Bioinformatics supervision"
-      date: ""
-      description: ""
 
-skills:
-  title: "Skills &amp; Stats"
-  slug: "skills"
-  toolset:
-    - name: Programming
-      list: Go, C, CPP, Python, BASH
-      level: 90%
-
-    - name: Reproducibility
-      list: LSF, NextFlow, Conda, git
-      level: 90%
-
-    - name: Visualisation
-      list: Jupyter, R, MatLab
-      level: 85%
-
-    - name: Web design
-      list: HTML5, CSS, Django, JS
-      level: 85%
-
-    - name: Cloud computing
-      list: Docker, AWS
-      level: 75%
-
-    - name: Machine Learning
-      list: RF, ANN, regression etc.
-      level: 60%
