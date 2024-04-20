@@ -4,56 +4,50 @@
 
 sidebar:
   # Profile information
-  name: Will Rowe
-  tagline: Computational Biologist
+  name: No jonghyun
+  tagline: Master of ML
   avatar: profile.png
   # Sidebar links
-  email: w.rowe@bham.ac.uk
-  website: willrowe.net
+  email: jhnoh2022@hanyang.ac.kr  
+  website: 
   linkedin: will-rowe-13219b136
-  github: will-rowe
-  twitter: "@wil_rowe"
+  github: noxxbell
+
 
   languages:
     - idiom: English
       level: Native
 
-    - idiom: Spanish
-      level: GCSE
+    - idiom: Korean
+      level: Native
 
   interests:
-    - item: Guitar playing
-      link: https://www.youtube.com/watch?v=2RsqfuvBddY
+    - item: Generative AI
+      link: 
 
-    - item: Rowing
+    - item: METAVERSE
       link:
 
-    - item: Cooking
-      link:
+ 
 
   education: True
 
 education:
-  - degree: PhD in Microbial Genomics
-    university: University of Cambridge
-    time: 2011 - 2015
-    details: |
-      Magdalene College, Cambridge, CB3 0AG
+  - degree: undergraduate student
+    university: University of Hanyang
+    time: 2022~
+    details: 
+      
 
-      ‘Monitoring antibiotic resistance genes in the aquatic environment’
+      ‘Studying DL, Data science’
 
-  - degree: BSc in Human Genetics (2.i)
-    university: Newcastle University
-    time: 2007 - 2010
-    details: |
-      University of Newcastle, Newcastle upon Tyne, NE1 7RU 
-
-      Human Genetics (2.i)
-
+      
+ 
+      
 career-profile:
   title: Career Profile
   summary: |
-    I'm Will Rowe, a computational biologist currently working in in the [Loman Lab](https://lab.loman.net/) on the 
+    I'm Jonghyun no, a computational biologist currently working in in the [Loman Lab](https://lab.loman.net/) on the 
     [ARTIC Network](http://artic.network/) and [COG-UK consortium](https://www.cogconsortium.uk/) projects.
 
     I work on algorithmic bioinformatics and genomics. I develop algorithms for a range of applications; 
